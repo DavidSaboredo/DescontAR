@@ -113,8 +113,8 @@ export const HORARIOS_ALERTA = [
 ]
 
 export const PERFIL_INICIAL = {
-  nombre: 'David Saboredo',
-  email: 'laruzo2013@gmail.com',
+  nombre: 'Usuario de ejemplo',
+  email: 'usuario@ejemplo.com',
   ciudad: 'Concepcion del Uruguay',
   notificacionesActivas: true,
   horaAlerta: '08:00',
